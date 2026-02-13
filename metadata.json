@@ -1,0 +1,8 @@
+{
+  "name": "Algovave Digital",
+  "description": "Premium 3D digital services platform specializing in website building, video editing, and immersive experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -6,7 +6,7 @@ import Projects from './components/Projects';
 import ExperienceTimeline from './components/Experience';
 import Skills from './components/Skills';
 import Footer from './components/Footer';
-import AIAssistant from './components/AIAssistant';
+// import AIAssistant from './components/AIAssistant';
 import Developer from './components/Developer';
 import Merchandise from './components/Merchandise';
 import { ThemeContext } from './context/ThemeContext';
@@ -53,7 +53,7 @@ const App: React.FC = () => {
 
         <Footer />
         
-        <AIAssistant />
+        {/* <AIAssistant /> */}
       </div>
     </ThemeContext.Provider>
   );
